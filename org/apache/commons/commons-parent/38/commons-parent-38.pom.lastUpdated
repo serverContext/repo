@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 21:04:47 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583931886498
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:38 from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/org/apache/commons/commons-parent/38/commons-parent-38.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583931887635
+@default-http\://central.maven.org/maven2/.lastUpdated=1583931887205

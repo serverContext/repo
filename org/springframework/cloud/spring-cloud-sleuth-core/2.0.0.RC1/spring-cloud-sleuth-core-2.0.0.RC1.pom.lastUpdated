@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Mar 24 20:39:09 CST 2019
+http\://maven.geotoolkit.org/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-sleuth-core\:pom\:2.0.0.RC1 from/to geotoolkit (http\://maven.geotoolkit.org/)\: Network is unreachable\: connect
+http\://repo.boundlessgeo.com/main/.lastUpdated=1553431136642
+http\://repo.boundlessgeo.com/main/.error=
+http\://central.maven.org/maven2/.lastUpdated=1553431089724
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1553431132264
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1553431134033
+http\://maven.springframework.org/milestone/.lastUpdated=1553431132524
+@default-https\://repo.maven.apache.org/maven2/.lastUpdated=1553431149435
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-sleuth-core\:pom\:2.0.0.RC1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+http\://maven.geomajas.org/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-sleuth-core\:pom\:2.0.0.RC1 from/to geomajas (http\://maven.geomajas.org/)\: maven.geomajas.org
+@default-http\://maven.geomajas.org/.lastUpdated=1553431149425
+@default-http\://maven.geotoolkit.org/.lastUpdated=1553431149395
+http\://central.maven.org/maven2/.error=

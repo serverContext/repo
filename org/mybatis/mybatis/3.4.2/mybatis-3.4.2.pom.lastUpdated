@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 21:02:45 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583931760782
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.mybatis\:mybatis\:pom\:3.4.2 from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/org/mybatis/mybatis/3.4.2/mybatis-3.4.2.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583931765078
+@default-http\://central.maven.org/maven2/.lastUpdated=1583931764349

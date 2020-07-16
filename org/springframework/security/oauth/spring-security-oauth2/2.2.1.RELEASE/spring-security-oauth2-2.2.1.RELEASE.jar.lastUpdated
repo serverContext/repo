@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 21:15:35 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583932518099
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.springframework.security.oauth\:spring-security-oauth2\:jar\:2.2.1.RELEASE from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE.jar. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583932535338
+@default-http\://central.maven.org/maven2/.lastUpdated=1583932533792

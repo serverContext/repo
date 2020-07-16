@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 18:53:27 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583923999368
+http\://central.maven.org/maven2/.error=Could not transfer artifact ch.qos.logback\:logback-classic\:pom\:1.2.3 from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583924007947
+@default-http\://central.maven.org/maven2/.lastUpdated=1583924007460

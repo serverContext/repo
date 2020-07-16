@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 18:55:58 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583924157768
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:2.2.0 from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583924158603
+@default-http\://central.maven.org/maven2/.lastUpdated=1583924158354

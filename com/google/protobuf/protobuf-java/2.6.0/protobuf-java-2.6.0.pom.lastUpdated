@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 10 14:03:48 CST 2020
+@default-https\://zxp111234.coding.net/p/akc_cloud_os/d/akc_cloud_os/git/raw/master/repo/.lastUpdated=1594361028075
+https\://zxp111234.coding.net/p/akc_cloud_os/d/akc_cloud_os/git/raw/master/repo/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:pom\:2.6.0 from/to akc_repo_release (https\://zxp111234.coding.net/p/akc_cloud_os/d/akc_cloud_os/git/raw/master/repo/)\: Failed to transfer file\: https\://zxp111234.coding.net/p/akc_cloud_os/d/akc_cloud_os/git/raw/master/repo/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.pom. Return code is\: 500 , ReasonPhrase\:Internal Server Error.
+http\://central.maven.org/maven2/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:pom\:2.6.0 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1594361028651
+@default-http\://central.maven.org/maven2/.lastUpdated=1594361028079

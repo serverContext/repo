@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 18:48:07 CST 2020
+@default-https\://repo.maven.apache.org/maven2/.lastUpdated=1583923687766
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.wagon\:wagon-provider-api\:pom\:1.0 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

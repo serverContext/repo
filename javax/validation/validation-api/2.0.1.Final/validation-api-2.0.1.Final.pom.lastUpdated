@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 18:56:03 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583924160661
+http\://central.maven.org/maven2/.error=Could not transfer artifact javax.validation\:validation-api\:pom\:2.0.1.Final from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583924163103
+@default-http\://central.maven.org/maven2/.lastUpdated=1583924162703

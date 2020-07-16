@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 11 09:52:18 CST 2019
+http\://maven.geotoolkit.org/.error=
+http\://repo.boundlessgeo.com/main/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-starter-netflix-ribbon\:jar\:2.0.0.RC1 from/to boundle (http\://repo.boundlessgeo.com/main/)\: Connect to repo.boundlessgeo.com\:443 [repo.boundlessgeo.com/52.22.156.115] failed\: Connection timed out\: connect
+http\://central.maven.org/maven2/.lastUpdated=1547171517618
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1547171535772
+http\://maven.geomajas.org/.lastUpdated=1547171531867
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1547171516036
+http\://maven.springframework.org/milestone/.lastUpdated=1547171511826
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1547171538515
+https\://repo.maven.apache.org/maven2/.error=
+@default-http\://repo.boundlessgeo.com/main/.lastUpdated=1547171508669
+http\://maven.geotoolkit.org/.lastUpdated=1547171522805
+http\://central.maven.org/maven2/.error=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 20:52:28 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583931145376
+http\://central.maven.org/maven2/.error=Could not transfer artifact com.netflix.archaius\:archaius-core\:pom\:0.7.6 from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/com/netflix/archaius/archaius-core/0.7.6/archaius-core-0.7.6.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583931148149
+@default-http\://central.maven.org/maven2/.lastUpdated=1583931147865

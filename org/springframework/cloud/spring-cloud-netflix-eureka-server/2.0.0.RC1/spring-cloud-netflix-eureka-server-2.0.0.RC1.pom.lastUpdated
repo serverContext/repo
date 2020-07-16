@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Mar 24 20:34:22 CST 2019
+http\://maven.geotoolkit.org/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-netflix-eureka-server\:pom\:2.0.0.RC1 from/to geotoolkit (http\://maven.geotoolkit.org/)\: maven.geotoolkit.org
+http\://repo.boundlessgeo.com/main/.lastUpdated=1553430826374
+http\://repo.boundlessgeo.com/main/.error=
+http\://central.maven.org/maven2/.lastUpdated=1553430816279
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1553430822536
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1553430824455
+http\://maven.springframework.org/milestone/.lastUpdated=1553430822945
+@default-https\://repo.maven.apache.org/maven2/.lastUpdated=1553430862015
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-netflix-eureka-server\:pom\:2.0.0.RC1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+http\://maven.geomajas.org/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-netflix-eureka-server\:pom\:2.0.0.RC1 from/to geomajas (http\://maven.geomajas.org/)\: maven.geomajas.org
+@default-http\://maven.geomajas.org/.lastUpdated=1553430862015
+@default-http\://maven.geotoolkit.org/.lastUpdated=1553430862005
+http\://central.maven.org/maven2/.error=

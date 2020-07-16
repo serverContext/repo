@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 17 09:40:50 CST 2019
+spring-cloud-starter-netflix-archaius-2.0.0.RC1.jar>org.springframework.maven.milestone=
+spring-cloud-starter-netflix-archaius-2.0.0.RC1.jar>spring-milestones=
+spring-cloud-starter-netflix-archaius-2.0.0.RC1.pom>spring-milestones=
+spring-cloud-starter-netflix-archaius-2.0.0.RC1.jar>geomajas=
+spring-cloud-starter-netflix-archaius-2.0.0.RC1.pom>geomajas=
+spring-cloud-starter-netflix-archaius-2.0.0.RC1.pom>org.springframework.maven.milestone=

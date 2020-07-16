@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 11 10:16:34 CST 2019
+http\://maven.geotoolkit.org/.error=
+http\://repo.boundlessgeo.com/main/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-commons\:jar\:2.0.1.RELEASE from/to boundle (http\://repo.boundlessgeo.com/main/)\: Connect to repo.boundlessgeo.com\:443 [repo.boundlessgeo.com/52.22.156.115] failed\: Connection timed out\: connect
+http\://central.maven.org/maven2/.lastUpdated=1547172921656
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1547172971229
+http\://maven.geomajas.org/.lastUpdated=1547172956441
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1547172889140
+http\://maven.springframework.org/milestone/.lastUpdated=1547172883294
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1547172994500
+@default-http\://repo.boundlessgeo.com/main/.lastUpdated=1547172875061
+http\://maven.geotoolkit.org/.lastUpdated=1547172928560

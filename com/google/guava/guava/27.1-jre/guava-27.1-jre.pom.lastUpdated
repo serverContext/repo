@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 20:52:51 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583931162947
+http\://central.maven.org/maven2/.error=Could not transfer artifact com.google.guava\:guava\:pom\:27.1-jre from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/com/google/guava/guava/27.1-jre/guava-27.1-jre.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583931171582
+@default-http\://central.maven.org/maven2/.lastUpdated=1583931171149

@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 13 14:51:04 CST 2019
+http\://maven.geotoolkit.org/.error=
+http\://repo.boundlessgeo.com/main/.lastUpdated=1550040649502
+http\://repo.boundlessgeo.com/main/.error=
+http\://central.maven.org/maven2/.lastUpdated=1550040628844
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1550040630340
+http\://maven.geomajas.org/.lastUpdated=1550040660591
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1550040639333
+http\://maven.springframework.org/milestone/.lastUpdated=1550040631793
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1550040664279
+http\://maven.geotoolkit.org/.lastUpdated=1550040657224
+https\://repo.maven.apache.org/maven2/.error=
+http\://maven.springframework.org/milestone/.error=
+http\://maven.geomajas.org/.error=
+http\://central.maven.org/maven2/.error=

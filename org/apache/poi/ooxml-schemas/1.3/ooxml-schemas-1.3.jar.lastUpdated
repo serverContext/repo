@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 21:07:48 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583931977936
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.apache.poi\:ooxml-schemas\:jar\:1.3 from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/org/apache/poi/ooxml-schemas/1.3/ooxml-schemas-1.3.jar. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583932068303
+@default-http\://central.maven.org/maven2/.lastUpdated=1583932050781

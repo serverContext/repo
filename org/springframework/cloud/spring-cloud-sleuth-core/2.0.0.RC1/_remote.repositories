@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Mar 24 20:38:52 CST 2019
+spring-cloud-sleuth-core-2.0.0.RC1.pom>spring-milestones=
+spring-cloud-sleuth-core-2.0.0.RC1.pom>org.springframework.maven.milestone=
+spring-cloud-sleuth-core-2.0.0.RC1.jar>org.springframework.maven.milestone=
+spring-cloud-sleuth-core-2.0.0.RC1.jar>spring-milestones=

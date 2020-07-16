@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 17:54:17 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583920456830
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.sonatype.oss\:oss-parent\:pom\:7 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583920457325
+@default-http\://central.maven.org/maven2/.lastUpdated=1583920456833

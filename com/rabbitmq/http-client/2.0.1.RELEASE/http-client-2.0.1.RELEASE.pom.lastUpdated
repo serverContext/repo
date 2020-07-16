@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 19:07:46 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583924864814
+http\://central.maven.org/maven2/.error=Could not transfer artifact com.rabbitmq\:http-client\:pom\:2.0.1.RELEASE from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583924866562
+@default-http\://central.maven.org/maven2/.lastUpdated=1583924866285

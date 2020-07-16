@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Mar 24 20:35:00 CST 2019
+http\://maven.geotoolkit.org/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-openfeign-core\:pom\:2.0.0.RC1 from/to geotoolkit (http\://maven.geotoolkit.org/)\: Connect to maven.geotoolkit.org\:80 [maven.geotoolkit.org/193.54.123.160] failed\: Connection timed out\: connect
+http\://repo.boundlessgeo.com/main/.lastUpdated=1553430875208
+http\://repo.boundlessgeo.com/main/.error=
+http\://central.maven.org/maven2/.lastUpdated=1553430869361
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1553430870850
+http\://maven.geomajas.org/.lastUpdated=1553430898835
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1553430872599
+http\://maven.springframework.org/milestone/.lastUpdated=1553430871100
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1553430900504
+https\://repo.maven.apache.org/maven2/.error=
+@default-http\://maven.geotoolkit.org/.lastUpdated=1553430896236
+http\://central.maven.org/maven2/.error=

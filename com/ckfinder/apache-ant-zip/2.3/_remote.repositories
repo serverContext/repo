@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 11:33:08 CST 2017
+apache-ant-zip-2.3.jar>=
+apache-ant-zip-2.3.pom>central=
+apache-ant-zip-2.3.pom>jeesite-repos=
+apache-ant-zip-2.3.jar>jeesite-repos=

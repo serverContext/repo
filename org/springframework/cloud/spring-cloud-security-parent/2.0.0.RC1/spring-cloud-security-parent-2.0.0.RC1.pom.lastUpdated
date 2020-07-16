@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Oct 21 15:40:07 CST 2019
+http\://maven.geotoolkit.org/.error=
+http\://repo.boundlessgeo.com/main/.lastUpdated=1571643599926
+http\://repo.boundlessgeo.com/main/.error=
+http\://central.maven.org/maven2/.lastUpdated=1571641479101
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1571641481936
+http\://maven.geomajas.org/.lastUpdated=1571643605663
+http\://maven.springframework.org/milestone/.lastUpdated=1571641483256
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repository.apache.org/content/repositories/releases/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-security-parent\:pom\:2.0.0.RC1 from/to apache release (https\://repository.apache.org/content/repositories/releases/)\: Read timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1571643607009
+https\://repo.maven.apache.org/maven2/.error=
+http\://maven.geotoolkit.org/.lastUpdated=1571643603958
+@default-https\://repository.apache.org/content/repositories/releases/.lastUpdated=1571643595078
+http\://central.maven.org/maven2/.error=

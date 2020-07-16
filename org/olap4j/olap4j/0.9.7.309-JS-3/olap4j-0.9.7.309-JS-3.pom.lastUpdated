@@ -1,0 +1,23 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 16 13:43:51 CST 2020
+http\://jasperreports.sourceforge.net/maven2/.error=
+http\://maven.geomajas.org/.error=
+@default-https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1594878213185
+http\://maven.geotoolkit.org/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1594878219267
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594878228760
+http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1594878229243
+http\://maven.geomajas.org/.lastUpdated=1594878227548
+@default-http\://central.maven.org/maven2/.lastUpdated=1594878213189
+@default-http\://repo.boundlessgeo.com/main/.lastUpdated=1594878220967
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.olap4j\:olap4j\:pom\:0.9.7.309-JS-3 from/to org.springframework.maven.milestone (http\://maven.springframework.org/milestone/)\: Access denied to\: http\://maven.springframework.org/milestone/org/olap4j/olap4j/0.9.7.309-JS-3/olap4j-0.9.7.309-JS-3.pom , ReasonPhrase\:Forbidden.
+https\://repo.maven.apache.org/maven2/.error=
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.lastUpdated=1594878231032
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=Could not transfer artifact org.olap4j\:olap4j\:pom\:0.9.7.309-JS-3 from/to akc_repo_release (https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/)\: Failed to transfer file\: https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/org/olap4j/olap4j/0.9.7.309-JS-3/olap4j-0.9.7.309-JS-3.pom. Return code is\: 500 , ReasonPhrase\:Internal Server Error.
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1594878220941
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.olap4j\:olap4j\:pom\:0.9.7.309-JS-3 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+http\://maven.geotoolkit.org/.lastUpdated=1594878223423
+@default-http\://maven.springframework.org/milestone/.lastUpdated=1594878220066
+http\://repo.boundlessgeo.com/main/.error=Could not transfer artifact org.olap4j\:olap4j\:pom\:0.9.7.309-JS-3 from/to boundle (http\://repo.boundlessgeo.com/main/)\: repo.boundlessgeo.com

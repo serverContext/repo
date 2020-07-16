@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 20:48:20 CST 2020
+file\:/D\:/devEnv/maven/local_repository/.error=
+file\:/D\:/devEnv/maven/local_repository/.lastUpdated=1594298899455
+http\://central.maven.org/maven2/.error=Could not transfer artifact com.corundumstudio.socketio\:netty-socketio\:jar\:1.7.16 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1594298900859
+@default-http\://central.maven.org/maven2/.lastUpdated=1594298899474

@@ -1,0 +1,30 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 23 10:13:58 CST 2019
+http\://maven.geomajas.org/.error=
+http\://maven.geotoolkit.org/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repo.boundlessgeo.com/main/.lastUpdated=1548209634986
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1548209623624
+http\://central.maven.org/maven2/.lastUpdated=1548209623489
+https\://repo.maven.apache.org/maven2/.lastUpdated=1548209638497
+https\://repo.spring.io/snapshot/.lastUpdated=1545888549824
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1545888550245
+http\://maven.geomajas.org/.lastUpdated=1548209636581
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1545888543724
+https\://repo.spring.io/libs-milestone/.error=
+http\://maven.springframework.org/milestone/.lastUpdated=1548209626992
+http\://maven.springframework.org/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1548209623042
+https\://repo.spring.io/libs-milestone/.lastUpdated=1545888544728
+https\://repo.maven.apache.org/maven2/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1548209630849
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1545888546808
+http\://central.maven.org/maven2/.error=
+https\://repo.spring.io/snapshot/.error=
+http\://maven.geotoolkit.org/.lastUpdated=1548209636114
+http\://repo.boundlessgeo.com/main/.error=

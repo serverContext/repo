@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 22:27:27 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583931977976
+http\://repository.jboss.org/maven2/.error=Could not transfer artifact javax.inject\:javax.inject\:jar\:1 from/to repository.jboss.org (http\://repository.jboss.org/maven2)\: Connect to repository.jboss.org\:443 [repository.jboss.org/209.132.182.97] failed\: Connection timed out\: connect
+https\://repo.maven.apache.org/maven2/.lastUpdated=1583936805326
+http\://central.maven.org/maven2/.error=Could not transfer artifact javax.inject\:javax.inject\:jar\:1 from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+@default-http\://repository.jboss.org/maven2/.lastUpdated=1583936847450
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+@default-http\://central.maven.org/maven2/.lastUpdated=1583932050842
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583932068341

@@ -1,0 +1,23 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 10 14:03:47 CST 2020
+file\:/D\:/devEnv/maven/local_repository/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to akc-mvn-repo-local (file\:/D\:/devEnv/maven/local_repository/)\: ProcessCanceledException
+http\://maven.geomajas.org/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to geomajas (http\://maven.geomajas.org/)\: ProcessCanceledException
+http\://maven.geotoolkit.org/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to geotoolkit (http\://maven.geotoolkit.org/)\: ProcessCanceledException
+@default-http\://maven.geomajas.org/.lastUpdated=1594298152505
+https\://repository.apache.org/content/repositories/releases/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to apache release (https\://repository.apache.org/content/repositories/releases/)\: ProcessCanceledException
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1594361027624
+@default-https\://repository.apache.org/content/repositories/releases/.lastUpdated=1594298152502
+@default-http\://maven.jeesite.com/nexus/content/groups/public/.lastUpdated=1594298152506
+@default-https\://repo.maven.apache.org/maven2/.lastUpdated=1594298152509
+@default-http\://central.maven.org/maven2/.lastUpdated=1594361026328
+@default-http\://repo.boundlessgeo.com/main/.lastUpdated=1594298152503
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to org.springframework.maven.milestone (http\://maven.springframework.org/milestone/)\: ProcessCanceledException
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to central (https\://repo.maven.apache.org/maven2)\: ProcessCanceledException
+@default-https\://zxp111234.coding.net/p/akc_cloud_os/d/akc_cloud_os/git/raw/master/repo/.lastUpdated=1594361025986
+https\://zxp111234.coding.net/p/akc_cloud_os/d/akc_cloud_os/git/raw/master/repo/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to akc_repo_release (https\://zxp111234.coding.net/p/akc_cloud_os/d/akc_cloud_os/git/raw/master/repo/)\: Failed to transfer file\: https\://zxp111234.coding.net/p/akc_cloud_os/d/akc_cloud_os/git/raw/master/repo/mysql/mysql-connector-java/8.0.11/mysql-connector-java-8.0.11.pom. Return code is\: 500 , ReasonPhrase\:Internal Server Error.
+http\://central.maven.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+@default-file\:/D\:/devEnv/maven/local_repository/.lastUpdated=1594298152487
+@default-http\://maven.geotoolkit.org/.lastUpdated=1594298152504
+http\://maven.jeesite.com/nexus/content/groups/public/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to jeesite-repos (http\://maven.jeesite.com/nexus/content/groups/public)\: ProcessCanceledException
+@default-http\://maven.springframework.org/milestone/.lastUpdated=1594298152500
+http\://repo.boundlessgeo.com/main/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:8.0.11 from/to boundle (http\://repo.boundlessgeo.com/main/)\: ProcessCanceledException

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 21:07:48 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583931977964
+http\://central.maven.org/maven2/.error=Could not transfer artifact io.github.openfeign\:feign-slf4j\:jar\:9.5.1 from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/io/github/openfeign/feign-slf4j/9.5.1/feign-slf4j-9.5.1.jar. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583932068328
+@default-http\://central.maven.org/maven2/.lastUpdated=1583932050829

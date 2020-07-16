@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 10 16:17:48 CST 2020
+file\:/D\:/devEnv/maven/local_repository/.error=
+file\:/D\:/devEnv/maven/local_repository/.lastUpdated=1594369065085
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.apache.poi\:poi-ooxml\:jar\:3.14 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1594369068655
+@default-http\://central.maven.org/maven2/.lastUpdated=1594369065111

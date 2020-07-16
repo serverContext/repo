@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 28 11:33:08 CST 2017
+@default-http\://maven.net.cn/content/groups/public/.lastUpdated=1514431704740
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact com.ckfinder\:apache-ant-zip\:pom\:2.3 from/to central (http\://maven.oschina.net/content/groups/public/)\: maven.oschina.net
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1514431988391
+http\://repo2.maven.org/maven2/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1514252837095
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1514430473972
+http\://maven.net.cn/content/groups/public/.error=Could not transfer artifact com.ckfinder\:apache-ant-zip\:pom\:2.3 from/to central (http\://maven.net.cn/content/groups/public)\: Connection refused\: connect
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://repo2.maven.org/maven2/.lastUpdated=1514431949689
+https\://repo.maven.apache.org/maven2/.lastUpdated=1514254056352
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1514431624476
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1514431909292

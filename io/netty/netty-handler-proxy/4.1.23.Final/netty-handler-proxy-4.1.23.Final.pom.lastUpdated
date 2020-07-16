@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 19:08:25 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583924901149
+http\://central.maven.org/maven2/.error=Could not transfer artifact io.netty\:netty-handler-proxy\:pom\:4.1.23.Final from/to maven central (http\://central.maven.org/maven2/)\: Failed to transfer file\: http\://central.maven.org/maven2/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.pom. Return code is\: 500 , ReasonPhrase\:Domain Not Found.
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583924905724
+@default-http\://central.maven.org/maven2/.lastUpdated=1583924905398

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 21:01:43 CST 2020
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1583931682220
+http\://central.maven.org/maven2/.error=Could not transfer artifact io.springfox\:springfox-swagger-ui\:pom\:2.8.0 from/to maven central (http\://central.maven.org/maven2/)\: Connect to central.maven.org\:80 [central.maven.org/151.101.40.209] failed\: Connection timed out\: connect
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583931703974
+@default-http\://central.maven.org/maven2/.lastUpdated=1583931703226

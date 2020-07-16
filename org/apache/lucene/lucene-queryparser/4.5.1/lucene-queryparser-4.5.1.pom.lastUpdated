@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 16 13:43:29 CST 2020
+@default-https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.lastUpdated=1594878209245
+http\://central.maven.org/maven2/.error=Could not transfer artifact org.apache.lucene\:lucene-queryparser\:pom\:4.5.1 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/.error=Could not transfer artifact org.apache.lucene\:lucene-queryparser\:pom\:4.5.1 from/to akc_repo_release (https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/)\: Failed to transfer file\: https\://zxp111234.coding.net/p/akc_repo/d/akc_repo/git/raw/master/repository/org/apache/lucene/lucene-queryparser/4.5.1/lucene-queryparser-4.5.1.pom. Return code is\: 500 , ReasonPhrase\:Internal Server Error.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1594878209734
+@default-http\://central.maven.org/maven2/.lastUpdated=1594878209252

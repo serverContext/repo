@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 20:34:09 CST 2020
+file\:/D\:/devEnv/maven/local_repository/.error=
+file\:/D\:/devEnv/maven/local_repository/.lastUpdated=1594298048767
+http\://central.maven.org/maven2/.error=Could not transfer artifact com.netflix.netflix-commons\:netflix-infix\:pom\:0.3.0 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1594298049165
+@default-http\://central.maven.org/maven2/.lastUpdated=1594298048771

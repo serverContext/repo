@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jul 09 20:34:23 CST 2020
+file\:/D\:/devEnv/maven/local_repository/.error=
+file\:/D\:/devEnv/maven/local_repository/.lastUpdated=1594298063548
+http\://central.maven.org/maven2/.error=Could not transfer artifact io.zipkin.brave\:brave-bom\:pom\:4.19.0 from/to maven central (http\://central.maven.org/maven2/)\: central.maven.org
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1594298063928
+@default-http\://central.maven.org/maven2/.lastUpdated=1594298063551

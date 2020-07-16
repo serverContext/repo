@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 11 22:26:45 CST 2020
+javax.inject-1.jar>central=
+javax.inject-1.pom>nexus=
+javax.inject-1.jar>nexus=

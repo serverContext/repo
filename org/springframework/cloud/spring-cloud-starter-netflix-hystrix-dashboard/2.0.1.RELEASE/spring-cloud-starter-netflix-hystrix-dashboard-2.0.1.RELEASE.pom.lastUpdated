@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 23 08:09:07 CST 2019
+http\://maven.geotoolkit.org/.error=
+http\://repo.boundlessgeo.com/main/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-starter-netflix-hystrix-dashboard\:pom\:2.0.1.RELEASE from/to boundle (http\://repo.boundlessgeo.com/main/)\: Connect to repo.boundlessgeo.com\:443 [repo.boundlessgeo.com/54.158.188.31] failed\: Connection timed out\: connect
+http\://maven.geotoolkit.org/.lastUpdated=1548202146094
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1548202147634
+@default-http\://repo.boundlessgeo.com/main/.lastUpdated=1548202145127
+http\://maven.geomajas.org/.lastUpdated=1548202147158
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1548202123813
